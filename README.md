@@ -5,7 +5,7 @@ This project is an interactive HR Analytics Dashboard built using **Power BI** t
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Screenshot%202026-08-08%20031658.png)
+![Dashboard](Dashboard.png)
 
 ## 🎯 Business Problem
 Organizations need to understand employee attrition and workforce trends to improve retention and make data-driven HR decisions.
